@@ -20,8 +20,8 @@ I used PuTTY to log into the cluster. The outcome of the project was a list of t
 
 ## Source code
 
-movie-similarities-27m.py:  
-https://github.com/Zandersan/Apache-Spark/blob/main/movie-similarities-27m.py  
+[*movie-similarities-27m.py*]
+(https://github.com/Zandersan/Apache-Spark/blob/main/movie-similarities-27m.py )
 
 ## Algorithm
 
@@ -29,7 +29,7 @@ The score was calculated using cosine similarity as a measure of similarity betw
 whose ratings are used as similarity vectors:  
 
 Cosine Similarity Formula:  
-https://www.machinelearningplus.com/wp-content/uploads/2018/10/Cosine-Similarity-Formula-1.png  
+![alt text](https://www.machinelearningplus.com/wp-content/uploads/2018/10/Cosine-Similarity-Formula-1.png )
 
 - Strength of similarity: Represents the number of occurrences of a given pair.  
 - Rating: Represents the average rating of a given movie.  
@@ -43,4 +43,4 @@ The outcome was a text file that presented the 10 movies with the highest simila
 "Star Wars: Episode IV - A New Hope" according to the algorithm:  
 
 Output file:  
-https://github.com/Zandersan/Apache-Spark/blob/main/similar_movies.txt 
+[*text file*](https://github.com/Zandersan/Apache-Spark/blob/main/similar_movies.txt)
