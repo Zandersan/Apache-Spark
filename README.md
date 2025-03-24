@@ -29,7 +29,7 @@ The score was calculated using cosine similarity as a measure of similarity betw
 whose ratings are used as similarity vectors:  
 
 Cosine Similarity Formula:  
-![alt text](https://www.machinelearningplus.com/wp-content/uploads/2018/10/Cosine-Similarity-Formula-1.png )
+![alt text](https://www.machinelearningplus.com/wp-content/uploads/2018/10/Cosine-Similarity-Formula-1.png)
 
 - Strength of similarity: Represents the number of occurrences of a given pair.  
 - Rating: Represents the average rating of a given movie.  
