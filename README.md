@@ -20,8 +20,7 @@ I used PuTTY to log into the cluster. The outcome of the project was a list of t
 
 ## Source code
 
-[movie-similarities-27m.py]
-(https://github.com/Zandersan/Apache-Spark/blob/main/movie-similarities-27m.py)
+[*movie-similarities-27m.py*](https://github.com/Zandersan/Apache-Spark/blob/main/movie-similarities-27m.py)
 
 ## Algorithm
 
